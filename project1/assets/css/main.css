@@ -71,3 +71,22 @@
   cursor: text;
   color: var(--white-color);
 }
+
+.header__qr {
+  background-color: var(--white-color);
+  width: 186px;
+  position: absolute;
+  left: 0;
+  top: 100%;
+  padding: 8px;
+  border-radius: 2px;
+}
+
+.header__qr-img {
+  width: 100%;
+}
+.header__qr-apps{
+  display: flex;
+}
+.header__qr-download-img {
+}
